@@ -24,8 +24,8 @@ You can **Add, Edit, View, and Delete products** through a simple user interface
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone <repository-url>
-cd <project-folder>
+git clone https://github.com/AliMohaamed/CRUD-Operation-Reactjs
+cd CRUD-Operation-Reactjs
 
 npm install
 make folder server
